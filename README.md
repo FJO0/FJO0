@@ -1,6 +1,14 @@
-## tes
+![FJO0](Gambar/banner.png)
 
-## Hi there 👋
+🌱 I’m currently learning AI
+ 
+
+Skills
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=whiteBadgeURLHere" /> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=yellow" />
+
+Connect with me 😄
+![https://instagram.com/f.x_farrell_jovian](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
 
 <!--
 **FJO0/FJO0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,9 +21,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-  😄Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
 
@@ -30,3 +39,4 @@ Here are some ideas to get you started:
 <img data-importer="snake" src="https://raw.githubusercontent.com/FJO0/FJO0/snake-output/snake.svg" alt="Snake animation" />
 
 ###
+⚡ Fun fact: Analyzing a film while watching it makes me enjoy it more
