@@ -3,7 +3,6 @@
 =======
 ## Hi there 👋
 
-
 <!--
 **FJO0/FJO0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 
 
@@ -26,8 +26,8 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FJO0/FJO0/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-
+###
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/FJO0/FJO0/snake-output/snake.svg" alt="Snake animation" />
 
-
+###
