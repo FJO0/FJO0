@@ -2,7 +2,7 @@
 ## tes
 =======
 ## Hi there 👋
->>>>>>> 04e88af6a9fd95d117675b4fb5baa967f7b0cf6a
+
 
 <!--
 **FJO0/FJO0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<<<<<<< HEAD
+
 
 
 <picture data-importer="pacman">
@@ -27,10 +26,8 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FJO0/FJO0/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-###
+
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/FJO0/FJO0/snake-output/snake.svg" alt="Snake animation" />
 
-###
-=======
->>>>>>> 04e88af6a9fd95d117675b4fb5baa967f7b0cf6a
+
