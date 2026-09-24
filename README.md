@@ -1,3 +1,4 @@
+
 ![FJO0](Gambar/banner.png)
 
 🌱 I’m currently learning AI
@@ -10,20 +11,6 @@ Connect with me 😄
 ![https://instagram.com/f.x_farrell_jovian](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 
-<!--
-**FJO0/FJO0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--  😄Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
@@ -34,9 +21,10 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FJO0/FJO0/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-###
+
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/FJO0/FJO0/snake-output/snake.svg" alt="Snake animation" />
 
-###
-⚡ Fun fact: Analyzing a film while watching it makes me enjoy it more
+
+⚡ Fun fact: Analyzing a film while      watching it makes me enjoy it more
+
