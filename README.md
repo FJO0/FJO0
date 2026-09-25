@@ -1,5 +1,6 @@
 
-![FJO0](gambar/banner.png)
+![FJ00](.github/gambar/banner.png)
+
 
 🌱 I’m currently learning AI
  
