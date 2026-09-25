@@ -1,5 +1,5 @@
 
-![FJO0](Gambar/banner.png)
+![FJO0](gambar/banner.png)
 
 🌱 I’m currently learning AI
  
